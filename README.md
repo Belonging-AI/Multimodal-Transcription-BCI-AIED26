@@ -27,4 +27,5 @@ The BCI protocol defines:
 - Scoring rubrics
 - Exemplars
   
-This repo provides the system description and prompt design for BCI-AI published in AIED 2026
+For BCI-AI paper published in AIED 2026, we focused on Decentering Teacher Authority
+
