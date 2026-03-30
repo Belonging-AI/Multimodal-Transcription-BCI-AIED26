@@ -28,4 +28,6 @@ The BCI protocol defines:
 - Exemplars
   
 For BCI-AI paper published in AIED 2026, we focused on Decentering Teacher Authority
-
+<p align="center">
+  <img src="docs/DTA-AI.png" width="600"/>
+</p>
